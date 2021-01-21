@@ -8,7 +8,7 @@
     "connect-mongo": "^2.0.3",
     "react": "^16.8.6",
     "react-youtube": "^7.9.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "youtube-api-search": "0.0.5"
   },
   "devDependencies": {
